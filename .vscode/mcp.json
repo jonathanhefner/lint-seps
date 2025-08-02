@@ -1,0 +1,9 @@
+{
+  "servers": {
+    "my-mcp-server": {
+      "type": "stdio",
+      "command": "npm",
+      "args": ["run", "--silent", "dev"]
+    }
+  }
+}

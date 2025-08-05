@@ -368,7 +368,7 @@ server.registerPrompt("lint-seps",
 
 Finally, let's run the workflow via the `lint-seps` prompt:
 
-![](./docs/assets/success.mp4)
+https://github.com/user-attachments/assets/665e72fc-6d79-4af3-99fc-554b0dac3b5d
 
 Success!  We can confirm that the agent performed all of the necessary actions:
 

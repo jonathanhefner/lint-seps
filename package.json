@@ -17,7 +17,7 @@
     "LICENSE"
   ],
   "scripts": {
-    "build": "tsc",
+    "build": "tsc && cp src/lint-seps-preamble.md dist/",
     "start": "node dist/index.js",
     "dev": "tsx src/index.ts"
   },

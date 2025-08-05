@@ -1,0 +1,12 @@
+{
+  "servers": {
+    "lint-seps": {
+      "type": "stdio",
+      "command": "npm",
+      "args": ["run", "--silent", "dev"]
+    },
+    "github": {
+      "url": "https://api.githubcopilot.com/mcp/"
+    }
+  }
+}
